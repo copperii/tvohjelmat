@@ -10,7 +10,7 @@
   "homepage": "/tvohjelmat",
   "private": true,
   "dependencies": {
-    "axios": "^1.12.1",
+    "axios": "^1.13.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "5.0.1",
